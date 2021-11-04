@@ -19,5 +19,5 @@ ReactDOM.render(
       <App />
     </BrowserRouter>
   </Provider>,
-  document.getElementsByTagName('body')
+  document.getElementById('body')
 );
