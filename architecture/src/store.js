@@ -1,7 +1,7 @@
 /**
  * El store es donde se contiene el reducer
  * * compose se usa para crear muchos reducer
- * * applyMiddleware nos proporciona la utilidad para intervenir dentro de la accion thunk es un middleware
+ * * applyMiddleware nos proporciona la utilidad para intervenir dentro de la accion
  * * thunk es un middleware para poder usar peticiones asyncronas dentro de los actions sin el no es posible hacerlo
  * * reducer es el conglomerado de los reducer que se usaran dentro del proyecto
  */
